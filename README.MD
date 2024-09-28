@@ -1,3 +1,3 @@
 # Expense Architecture
 
-C:/Users/91709/Downloads/expense-infra-dev.drawio.svg
+C:\Users\91709\Pictures\Screenshots\Screenshot 2024-09-06 191820.png
